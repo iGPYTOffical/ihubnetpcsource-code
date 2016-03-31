@@ -1,0 +1,11 @@
+plugin.x
+ihubcore.xplugin
+ihubnetworkdata.xplugin
+iBrother.xplugin
+iHubMCPEdatasync.xplugin
+iBrother.php
+ihubcore.php
+ihubnetworkdata.php
+iHubMCPEdatasync.php
+
+{sync:xplugin=jar}
