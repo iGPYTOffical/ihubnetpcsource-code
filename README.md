@@ -6,6 +6,7 @@ The Java iHubNet REngine/VM Optimized Version of Java VM JDK Dev Optimized Partn
 
 This is a JNI library to talk to the Mumble Link plugin.
 
-You can find the Mumble project at:
-http://mumble.info
+You can find the Java Developer JDK Optimized Partner project at:
+https://sites.google.com/site/ihubnetaccess/about.
+
 
