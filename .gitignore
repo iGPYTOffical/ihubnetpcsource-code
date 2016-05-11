@@ -1,8 +1,8 @@
 *.class
 Java.hotspot.client
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
+i.json
+i.jdk
 # Package Files #
 *.jar
 *.war
